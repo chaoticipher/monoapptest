@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "monoapptest",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "angular",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1731838437601,
+    "databaseType": "sql",
+    "devServerPort": 4200,
+    "enableHibernateCache": true,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "mySecretKey",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": null,
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "testFrameworks": ["cucumber"],
+    "websocket": "spring-websocket"
+  }
+}
